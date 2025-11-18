@@ -2,7 +2,7 @@
 Create a 3d DNA molecule with adjustable parameter using this addon
 
 
-![VibeDNA Plugin Demo](https://github.com/LucasSilvaFerreira/VibeDnaBlenderAddon/raw/main/blendervibe.png)
+![VibeDNA Plugin Demo](https://github.com/LucasSilvaFerreira/VibeDnaBlenderAddon/raw/main/blendervibe.jpg)
 
 **VibeDNA** is a powerful Blender Add-on designed to procedurally generate customizable 3D DNA double helices. This tool is ideal for scientific visualization, medical animation, and motion graphics, offering advanced controls for unwinding (topoisomerase simulation), custom text labels, and emissive materials.
 
